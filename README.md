@@ -19,3 +19,5 @@ Automatically it opens http://localhost:9000
 # creates public_html folder
 npm run build
 ```
+
+Note: Read dev/prod config files for webpack dependencies and settings
