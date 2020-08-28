@@ -1,3 +1,4 @@
+## Zurb Foundation 6 with Web Pack
 ## Quick Rundown
 ```sh
 # Install necessary node modules
